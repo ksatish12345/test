@@ -1,0 +1,5 @@
+pipeline{
+
+sh "echo 'test'"
+
+}
