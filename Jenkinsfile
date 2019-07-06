@@ -1,5 +1,3 @@
-pipeline{
-
-sh "echo 'test'"
-
+node{
+  sh "echo 'test'"
 }
